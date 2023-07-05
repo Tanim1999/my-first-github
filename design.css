@@ -1,3 +1,20 @@
+body{background-color: hwb(36 6% 32% /0.667);
+/**background-image: url(./images/stoic.jpg.jpeg);
+background-repeat: no-repeat;
+background-size: cover ;}**/
 p{text-decoration: solid;
 text-shadow: 2px;
 color: blue;}
+h1{color:red;
+background-color:hwb(36 6% 32% / 0.667);
+margin-bottom: 1px;
+padding-bottom: 0px;
+margin-left: 200px;}
+.facts
+{font-size: 30px ;
+    background-color:rgba(rgba(189, 171, 15, .7); 
+    color: white;
+    margin-top:1px ;
+    padding-top: 0px;
+
+}
